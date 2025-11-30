@@ -23,6 +23,9 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Ensure Customer Success Manager is included for customer-facing communications
+
+> For role definitions and communication responsibilities, see [Roles & Personas Reference](octoacme-roles-and-personas.md).
 
 ## Communication Templates
 Weekly Status Template:

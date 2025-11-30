@@ -17,8 +17,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
+- Scrum Master: facilitates Agile ceremonies, removes impediments, coaches the team.
+- UX Designer: creates user-centered designs and prototypes.
+- Data Analyst: measures outcomes, creates dashboards, provides insights.
+- Customer Success Manager: advocates for users, collects feedback, drives adoption.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+
+> For detailed role definitions and interaction points, see [Roles & Personas Reference](octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
