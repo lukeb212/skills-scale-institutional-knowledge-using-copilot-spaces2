@@ -15,6 +15,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Review team roles and responsibilities (see [Roles & Personas Reference](octoacme-roles-and-personas.md))
 
 ## Backlog Item Template
 - Title:
@@ -41,3 +42,4 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Team roles clarified using [Role Clarification Checklist](octoacme-roles-and-personas.md#role-clarification-checklist)

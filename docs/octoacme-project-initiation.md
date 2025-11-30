@@ -19,6 +19,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+> **Note:** For role definitions and responsibilities, refer to the [Roles & Personas Reference](octoacme-roles-and-personas.md).
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:
@@ -35,6 +37,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Team roles identified and assigned (see [Role Clarification Checklist](octoacme-roles-and-personas.md#role-clarification-checklist))
+- [ ] Role responsibilities discussed and agreed upon
 
 ## Decision Gate
 Move to planning when:

@@ -37,10 +37,14 @@ OctoAcme clearly defines roles to streamline delivery and reduce ambiguity:
 | **Project Manager (PM)** | Coordinates delivery, manages schedules, risks, and communications; maintains documentation and reporting |
 | **Product Manager (PdM)** | Owns product vision, prioritizes backlog, defines outcomes, and measures value delivery |
 | **Developers** | Implement features to meet acceptance criteria and quality benchmarks; participate in design, code reviews, and risk identification |
+| **Scrum Master** | Facilitates Agile ceremonies, removes impediments, coaches the team on Scrum practices |
+| **UX Designer** | Creates user-centered designs, wireframes, and prototypes; ensures usability and accessibility |
+| **Data Analyst** | Measures project outcomes, creates dashboards, and provides actionable insights |
+| **Customer Success Manager** | Advocates for users post-launch, collects feedback, and drives product adoption |
 | **QA/Testing** | Validate quality and acceptance criteria through testing |
 | **Stakeholders** | Provide inputs, approvals, and feedback throughout the project |
 
-For detailed role descriptions, see [Roles & Personas Reference](octoacme-roles-and-personas.md).
+For detailed role definitions, interaction points, and the role clarification checklist, see [Roles & Personas Reference](octoacme-roles-and-personas.md).
 
 ---
 

@@ -8,6 +8,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
 
+> For role-specific responsibilities during execution, see the [Cross-functional Interaction Matrix](octoacme-roles-and-personas.md#cross-functional-interaction-matrix).
+
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
 - Pull Request workflow:

@@ -22,6 +22,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] Notify Customer Success Manager for customer communications
+
+> For role responsibilities during release, see the [Cross-functional Interaction Matrix](octoacme-roles-and-personas.md#cross-functional-interaction-matrix).
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
